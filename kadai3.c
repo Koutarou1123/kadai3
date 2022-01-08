@@ -9,7 +9,8 @@ char unko[256];
 int i=0;
 printf("256文字以上の文字は打たないでください\n");
 scanf(" %s",unko);
-while (1){
+while (1)
+{
 	if(unko[i]!='u'&& unko[i]!='n'&& unko[i]!='k'&& unko[i]!='o'){
 		unko[i]=' ';
 	}
