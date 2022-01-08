@@ -40,7 +40,7 @@ $./kadai3
 <img src="https://user-images.githubusercontent.com/95609545/148633752-0e6a427e-00b1-4998-8679-843b05f25859.jpg" width="500">
 ## ライセンス
 ---  
-GNU General Public License v3.0
+GNU General Public License v3.0　　
 ライセンスの詳細が見たい場合はリポジトリ内にあるLICENCEを参照してください。
 
 
