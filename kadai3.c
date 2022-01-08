@@ -1,15 +1,13 @@
-"""
-GNU General Public License v3.0
-"""
+//GNU General Public License v3.0
+/*Copyright(c)2022 Koutaro Murabayashi.All rights reserved.
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
-
-char unko[];
+int main(){
+char unko[256];
 int i=0;
-
-int main()
-{
-scanf("%s",unko);
+scanf(" %s",unko);
 while (1){
 	if(unko[i]!='u'&& unko[i]!='n'&& unko[i]!='k'&& unko[i]!='o'){
 		unko[i]=' ';
