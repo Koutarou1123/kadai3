@@ -35,7 +35,7 @@ $./kadai3
 ## 実行結果  
 ---  
 以下のリンクから今回の動画がyoutubeで見ることが可能です。  
-
+https://youtu.be/eG7FVhBjDBM  
 動画で見にくい方はこちらの写真をご覧ください。  
 <img src="https://user-images.githubusercontent.com/95609545/148633752-0e6a427e-00b1-4998-8679-843b05f25859.jpg" width="500">
 ## ライセンス
