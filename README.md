@@ -16,7 +16,15 @@
 ①今回使うリポジトリをクローンする。  
 
 ```  
-$git clone 
+$git clone https://github.com/Koutarou1123/kadai3.git  
+```  
+
+②kadai3に移動する。 
+
+```
+$cd kadai3  
+```  
+
 
 
 
