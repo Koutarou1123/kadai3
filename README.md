@@ -40,7 +40,8 @@ $./kadai3
 
 ## ライセンス
 ---  
-
+GNU General Public License v3.0
+ライセンスの詳細が見たい場合はリポジトリ内にあるLICENCEを参照してください。
 
 
 
